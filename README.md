@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Usman @superusman001
-- 👀 I’m interested in ...smart contracts, cryptocurrencies, and DeFi Protocols 
+- 👀 I’m interested in ...installing and launching nodes for staking, smart contracts, cryptocurrencies, and DeFi Protocols 
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Defi Aggregation
+- 💞️ I’m looking to collaborate on ... staking via nodes 
 - 📫 How to reach me ... uchau01vcu@gmail.com
 - 👀 For details... [
 - ](https://my.indeed.com/p/usmanc-xchl6sk)
